@@ -8,7 +8,7 @@ TableLayout example
 
 Image
 =============
-<center><img src="/1.png" width="320" height="524"></center>
+<center><img src="/3.png" width="320" height="524"></center>
 
 <hr/>
 
