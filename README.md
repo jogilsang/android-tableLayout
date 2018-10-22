@@ -1,5 +1,5 @@
 # android-tableLayout
-begginer tableLayout
+begginer tableLayout.
 
 Introduce
 =============
